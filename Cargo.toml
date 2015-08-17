@@ -1,9 +1,0 @@
-[package]
-name = "novice-tools"
-version = "0.1.0"
-authors = ["Lukas Kalbertodt <lukas.kalbertodt@gmail.com>"]
-
-description = "Small and easy functions for programming beginners"
-repository = "https://github.com/LukasKalbertodt/novice-tools"
-license = "MIT"
-keywords = ["beginner", "stdin", "input"]

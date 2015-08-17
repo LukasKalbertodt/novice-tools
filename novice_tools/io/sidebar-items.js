@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["read","Reads a line from user input and try to parse it as type `T`."],["read_bool","Reads a boolean from user input"],["read_float","Reads a float from user input"],["read_number","Reads an integer from user input"]]});
